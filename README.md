@@ -1,0 +1,2 @@
+# steamkey
+Random key
